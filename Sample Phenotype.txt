@@ -1,0 +1,24 @@
+SampleID	Study	Species	Sex	Age	Tissue	TissueType	Category	Stage
+GSM880774	GSE36076	Homo sapiens	NA	NA	PBMC	Tumor	Case	NA
+GSM880775	GSE36076	Homo sapiens	NA	NA	PBMC	Tumor	Case	NA
+GSM880776	GSE36076	Homo sapiens	NA	NA	PBMC	Tumor	Case	NA
+GSM880787	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880788	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880789	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880790	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880791	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880792	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880793	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880794	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880795	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM880796	GSE36076	Homo sapiens	NA	NA	PBMC	Adjacent	Control	NA
+GSM1251551	GSE51725	Homo sapiens	NA	NA	Gastric	Normal	Control	None
+GSM1251552	GSE51725	Homo sapiens	NA	NA	Gastric	Normal	Control	None
+GSM1251553	GSE51725	Homo sapiens	Male	75	Gastric	Tumor	Case	III
+GSM1251554	GSE51725	Homo sapiens	Male	65	Gastric	Tumor	Case	III
+GSM1251555	GSE51725	Homo sapiens	Male	80	Gastric	Tumor	Case	III
+GSM1251556	GSE51725	Homo sapiens	Male	69	Gastric	Tumor	Case	III
+GSM1251557	GSE51725	Homo sapiens	Male	70	Gastric	Tumor	Case	III
+GSM1251558	GSE51725	Homo sapiens	Female	74	Gastric	Tumor	Case	III
+GSM1251559	GSE51725	Homo sapiens	Male	66	Gastric	Tumor	Case	III
+GSM1251560	GSE51725	Homo sapiens	Male	48	Gastric	Tumor	Case	III
